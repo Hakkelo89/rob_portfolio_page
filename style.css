@@ -1,12 +1,8 @@
 body {
   padding: 0;
   margin: 0;
-  background-image: linear-gradient(
-      to right,
-      rgba(0, 0, 0, 0.2),
-      rgba(0, 0, 0, 1)
-    ),
-    url(Assets/img/background/background.jpg);
+  color: #44e6cc;
+  background-image: url(Assets/img/background/background.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -15,10 +11,24 @@ body {
 }
 
 .main-container {
-  position: absolute;
-  width: 25%;
-  height: 25%;
-  top: 10%;
-  left: 20%;
-  transform: translate(-80%, -20%);
+  margin: 0;
+  margin-left: 2vw;
+}
+
+.nav-link {
+  color: #44e6cc;
+  margin: 1vw;
+  display: flex;
+}
+
+.nav-link:hover {
+  color: #44e6cc;
+}
+
+.icons {
+  margin: 1vw;
+}
+
+.navbar-toggler {
+  background-color: #44e6cc;
 }

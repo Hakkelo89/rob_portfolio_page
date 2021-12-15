@@ -1,0 +1,23 @@
+{
+  "name": "rob_portfolio_page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hakkelo89/rob_portfolio_page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hakkelo89/rob_portfolio_page/issues"
+  },
+  "homepage": "https://github.com/Hakkelo89/rob_portfolio_page#readme",
+  "dependencies": {
+    "ticker-board": "^1.0.5"
+  }
+}
