@@ -1,0 +1,379 @@
+body
+	{
+	position: fixed;
+	height: 100%;
+	width: 100%;
+	background-color: black;
+	font-family: 'Work Sans', sans-serif;
+	font-size: 9pt;
+	overflow: scroll;
+	min-width: 750px;
+	cursor: default;
+	}
+	
+.group1, about>p
+	{
+	color: #44E6CC !important;
+	}
+	
+.group2 
+	{
+	color: #DAFAF6;
+	}
+
+a, a:active, a:visited, a:hover
+	{
+	text-decoration: none;
+	cursor: pointer;
+	color: inherit;
+	}
+
+#menu li
+	{
+	cursor: pointer;
+	font-weight: semi-bold;
+	}
+	
+#menu .group1
+	{
+	cursor: default;
+	}
+
+#main
+	{
+	position: fixed;
+	top: 0px;
+	}
+
+#carousel, #pageHolder
+	{
+	/* position: absolute;
+	top: 90px;
+	min-width: 750px; */
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+p
+	{
+	font-weight: regular;  
+	}
+
+#holder
+	{
+	position: relative;
+	width: 100%; 
+	height: 100%;
+	top: 0px;
+	left: 0px;
+	overflow: hidden;
+	min-width: 750px;
+	}
+
+#slides
+	{
+	position: absolute;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	min-width: 750px;
+	}
+
+#slides li
+	{
+	position: relative;
+	float: left;
+	left: -15px; /*405px;*/
+	margin: 0px 15px;
+	display: inline-block;
+	width: 100%;
+	min-width: 750px;
+	}
+
+#slides img
+	{
+	position: relative;
+	max-width: 100%;
+	min-width: 750px;
+	}
+
+.text
+	{/*
+	-webkit-column-count: 3;
+	-moz-column-count: 3;
+	-o-column-count: 3;
+	column-count: 3;
+	-webkit-column-fill: auto;
+	-moz-column-fill: auto;
+	-o-column-fill: auto;
+	column-fill: auto; */
+	padding-top: 20px;
+	height: 90px;
+	font-weight: normal;
+	/*min-width: 750px;*/
+	position: relative;
+	left: 13%;
+	width: 50%;
+	}
+
+#menu
+	{
+	position: relative;
+	left: 0px;
+	top: 0px;
+	height: 100px;
+	vertical-align: middle;
+	text-align: left;
+	min-width: 750px;
+	padding: 0;
+	margin: 0;
+	}
+
+.menu
+	{
+	text-align: left;
+	}
+	
+.small
+	{
+	cursor: pointer;
+	}
+
+.background
+	{
+	position: fixed;
+	bottom: 0px;
+	right: 0px;
+	width: 100%;
+	min-width: 750px;
+	}
+
+#left, #right
+	{
+	position: relative;
+	height: 100% !important;
+	width: 13%;
+	z-index: 20;
+	opacity: 0.75;
+	font-size: 50px;
+	}
+
+.nav>span
+	{
+	position: absolute;
+	bottom: 40px;
+	}
+
+.nav
+	{
+	bottom: 3%;
+	}
+
+#left:hover, #right:hover
+	{
+	opacity: 1;
+	}
+
+#left
+	{
+	float: left;
+	text-align: left;
+	padding-left: 20px;
+	}
+
+#right
+	{
+	float: right; 
+	text-align: right;
+	padding-right: 20px;
+	}
+
+#leftArrow
+	{
+	-ms-transform: rotateZ(180deg);
+    -moz-transform: rotateZ(180deg);
+    -webkit-transform: rotateZ(180deg);
+    -o-transform: rotateZ(180deg);
+    transform: rotateZ(180deg);
+	}
+
+#pageHolder
+	{
+	padding-top: 20px;
+	font-weight: normal;
+
+	}
+
+about, contact, clients, legal, #name, #brief, #work, #contact, #downloadNew, #shop, #icons
+	{
+	position: absolute;
+	display: inline-block;
+	float: left;
+	}
+
+about
+	{
+	width: 348px;
+	}
+
+contact
+	{
+	left: 40%;
+	width: 20%;
+	}
+
+clients
+	{
+	left: 58%;
+	width: 18%;
+	}
+
+clients ul
+	{
+	padding: 0;
+	margin: 0;
+	}
+
+legal
+	{
+	left: 79%;
+	}
+
+.menu
+	{
+	width: 60px;
+	text-align: left;
+	padding-top: 15px;
+	height: 50%;
+	vertical-align: middle;
+	cursor: default;
+	
+	}
+
+#name 
+	{
+	left: 0px;
+	text-align: inherit;
+	min-width: 90px;
+	}
+
+#brief
+	{
+	left: 13%;
+	width: 155px !important;
+	}
+	
+#work
+	{
+	left: 32%;
+	}
+
+#contact
+	{
+	left: 42%;
+	}
+
+#download
+	{
+	left: 57%;
+	}
+
+.download
+	{
+	position: relative;
+	float: right !important;
+	margin-top: -5px;
+	max-height: 23px;
+	}
+	
+#downloadNew
+	{
+	left: 42%;
+	min-width: 57px;
+	height: 30px;
+	}
+	
+#shop
+	{
+	left: 57%;
+	}
+	
+#icons
+	{
+	position: relative;
+	/* left: 72%; */
+	float: right;
+	right: 0%;
+	width: 25%;
+	}
+
+#subicons
+	{
+	position: relative;
+	width: 100%;
+	top: 0;
+	padding-top: 0px;
+	}
+	
+.icon
+	{
+	position: relative;
+	display: inline-block;
+	float: left;
+	top: 0px;
+	padding-right: 10%;
+	}
+
+.iconImage 
+	{
+	position: relative;
+	max-width: 20px;
+	}
+
+.menu span
+	{
+	position: relative;
+	left: 0px;
+	}
+
+#contacts
+	{
+	padding-top: 0;
+	margin-top: 0;
+	}
+	
+/* New colours  */
+
+
+#mobile
+	{
+	display: none;
+	}
+	
+
+	
+@media screen and (max-width: 1024px)
+{
+
+---body
+	{
+	font-size: 10pt;
+	}
+
+}
+
+@media screen and (max-width: 991px) 
+{
+#mobile
+	{
+	display: block;
+	}
+
+.icon
+	{
+	width: 23px;
+	height: 23px;
+	padding-right: 7%;
+	}
+}

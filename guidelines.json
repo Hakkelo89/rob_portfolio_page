@@ -1,0 +1,361 @@
+{
+	"brands": [
+	{
+		"title": "HSBC",
+		"brand": "HSBC Staff Facing Channels",
+		"line" : "",
+		"client": "FathomUX", 
+		"url": "", 
+		"images": [
+		{
+			"photo": "HSBC1.png",
+			"caption": "I was Design Manager for this global Staff Channels project. I wrote and maintained the the guidelines for the system, including technical specifications. I was also responsible for approving the final design and UX elements."
+		},
+		{
+			"photo": "HSBC2.png",
+			"caption": "We rebuilt all aspects of the design and the UX of staff interface. This system is to be rolled out across several other of HSBCs business sectors. I was responsible for several of the innovations - including the UX - to the HSBC interface."
+		}
+				]
+	},
+			{
+		"title": "LaTrobe",
+		"brand": "La Trobe Unversity Rebrand",
+		"line" : "",
+		"client": "La Trobe Unversity, Melbourne", 
+		"url": "", 
+		"images": [
+		{
+			"photo": "latrobe1.png",
+			"caption": "I was brought in to help steer the design, and to develop brand elements for La Trobe’s rebrand project. I worked on all aspects - visual, content and messaging - including logo usage, choosing colours and fonts, and developing flexible layouts."
+		},
+		{
+			"photo": "Latrobe2.png",
+			"caption": "One task was developing best practice guidelines with the team. These are pages from the brand guidelines."
+		}
+		]
+	},
+			{
+		"title": "Keep Prisons Single Sex",
+		"brand": "Keep Prisons Single Sex",
+		"line" : "Total rebrand",
+		"client": "", 
+		"url": "", 
+		"images": [
+		{
+			"photo": "KPSS1.png",
+			"caption": "New branding for the prisoners’ advocacy group. It is designed to be bold and plain speaking. The colour bars connote CCTV surveillance and prison gates. Brochure cover, Business card."
+		},
+		{
+			"photo": "KPSS2.png",
+			"caption": "The design is intentionally blocky and without images. It is designed as an easily editable modular system. Different colourways use tones from the gradient palettes."
+		}
+		]
+	},
+	{
+		"title": "Gucci",
+		"brand": "Gucci",
+		"line" : "Chime for Change",
+		"client": "Mother London", 
+		"url": "", 
+		"images": [
+		{
+			"photo": "Gucci1.png",
+			"caption": "This campaign, founded by Gucci, was designed to raise awareness and benefit women around the globe. I worked on every aspect of this campaign across print, digital and experiential."
+		},
+		{
+			"photo": "Gucci2.png",
+			"caption": "I developed and wrote the brand guidelines for the whole campaign.  These included sequential build guides for all advert formats; messaging content and hierarchy, and the usual colour, logo and type guides."
+		}
+		]
+	},
+	{
+		"title": "Royal George",
+		"brand": "Royal George Hotel rebrand",
+		"line" : "",
+		"client": "", 
+		"url": "", 
+		"images": [
+		{
+			"photo": "RG1.png",
+			"caption": "“This place is as big as a ship”. The result of this is the vaguely nautical rebrand for a hugely popular country pub. The logotype is custom and influenced by lettering on ships. "
+		},
+		{
+			"photo": "RG2.png",
+			"caption": "There’s also references to cargo stencilling, waves, flags and plimsoll lines."
+		}
+		]
+	},
+	{
+		"title": "Dubai",
+		"brand": "Dubai Parks",
+		"line" : "",
+		"client": "FutureBrand London", 
+		"url": "", 
+		"images": [
+		{
+			"photo": "Dubai1.png",
+			"caption": "A theme park with 7 areas needs a look and feel that can adapt to anything. Dubai Parks branding is based around lines and gradients not around a logo."
+		},
+		{
+			"photo": "Dubai2.png",
+			"caption": "Part of the developing the design was producing the brand guidelines."
+		},
+		{
+			"photo": "Dubai3.png",
+			"caption": "Customer facing design is colourful, dynamic and playful.</a>"
+		}
+		]
+	},
+	{
+		"title": "Crimean",
+		"brand": "The Crimean",
+		"line" : "",
+		"client": "",
+		"url": "",
+		"images": [
+		{
+			"photo": "Crimean1.png",
+			"caption" : "I designed the branding for this awarded Eastern European restuarant and bar. The look is based on Czech match box labels from the ‘60s and ‘70s. These posters got stolen from the outside of the building a lot."
+		}
+		]
+	},
+	{
+		"title": "Gurus",
+		"brand": "Digital Gurus",
+		"line" : "",
+		"client": "",
+		"url": "",
+		"images": [
+		{
+			"photo": "Digital1.png",
+			"caption" : "Visual rebrand for the global recruitment agency. Each territory has its own colour but all other assets are shared."
+		}
+		]
+	},
+
+	{
+		"title": "Britain",
+		"brand": "Britain is GREAT",
+		"line" : "",
+		"client": "Mother London", 
+		"url": "", 
+		"images": [
+		{
+			"photo": "Great1.png",
+			"caption": "I developed the design and wrote and produced the guidelines for this global campaign. This included creating standardised layouts, typography and content. I was also responsible for worldwide artwork approvals and finding solutions for territory specific situations. "
+		},
+		{
+			"photo": "Great2.png",
+			"caption": "I created a simple and bulletproof method for creating on-brand communications - from blank page to finished ad - that is suitable for any size or shape."
+		}
+		]
+	},
+	{
+		"title": "Rexona",
+		"brand": "Rexona/Sure",
+		"line" : "",
+		"client": "DLKW Lowe", 
+		"url": "", 
+		"images": [
+		{
+			"photo": "Sure1.png",
+			"caption" : "These brand guides weren’t about the design. They were about the idea behind it. They are bold, simple and designed to be read very quickly."
+		}
+		]
+	},
+	{
+		"title": "Howard",
+		"brand": "Howard Property",
+		"line" : "",
+		"client": "Corke Wallis", 
+		"url": "", 
+		"images": [
+		{
+			"photo": "Howard1.png",
+			"caption" : "In the course of writing and producing the guidelines I ended up choosing materials and colours, and designing signage and interiors."
+		}
+		]
+	},
+	{
+		"title": "CarltonUtd",
+		"brand": "Carlton United Breweries",
+		"line" : "",
+		"client": "VividBrand", 
+		"url": "", 
+		"images": [
+		{
+			"photo": "Carlton1.png",
+			"caption" : "Design, development and build guides for retail formats across Australia"
+		}
+		]
+	},
+	{
+		"title": "Bupa",
+		"brand": "Bupa",
+		"line" : "", 
+		"client": "Calling Brands", 
+		"url": "", 
+		"images": [
+		{
+			"photo": "Bupa1.png",
+			"caption": "As part of the global brand consolidation I wrote, designed and produced the Visual Brand Elements guide."
+		}
+		]
+	},
+	{
+		"title": "Allianz",
+		"brand": "Allianz",
+		"line" : "", 
+		"client": "Grey London", 
+		"url": "", 
+		"images": [
+		{
+			"photo": "Allianz1.png",
+			"caption": "I worked on the brand redesign for this global insurance company.  Newsletters, fact sheets, magazines  and PowerPoint documents."
+		},
+		{
+			"photo": "Allianz2.png",
+			"caption": "We devised a system to build print advertising. The same set of rules for small print ads up to 96-sheet posters."
+		},
+		{
+			"photo": "Allianz3.png",
+			"caption": "Part of the work was writing brand, image and typographic guidelines."
+		}
+		]
+	},
+	{
+		"title": "Invesco",
+		"brand": "Invesco",
+		"line" : "",
+		"client": "M&C Saatchi", 
+		"url": "", 
+		"images": [
+		{
+			"photo": "Invesco1.png",
+			"caption" : "Digital guidelines for the global brand refresh"
+		}
+		]
+	},
+	{
+		"title": "GreatFire",
+		"brand": "The Great Fire",
+		"line" : "",
+		"client": "ITV", 
+		"url": "", 
+		"images": [
+		{
+			"photo": "Fire1.png",
+			"caption" : "Digital and print guidelines for the ITV drama"
+		}
+		]
+	},
+	{
+		"title": "Sport24",
+		"brand": "Sport 24",
+		"line" : "",
+		"client": "IMG", 
+		"url": "", 
+		"images": [
+		{
+			"photo": "Sport241.png",
+			"caption": "I worked on the design development and wrote and produced the brand and promo guidelines."
+		}
+		]
+	},
+	{
+		"title": "TescoProp",
+		"brand": "Tesco",
+		"line" : "",
+		"client": "Tesco Property Department", 
+		"url": "", 
+		"images": [
+		{
+			"photo": "Tesco1.png",
+			"caption": "This manual shows all Tesco fixtures and signage. I rebuilt it using a modular system, with common assets to provide flexibility. Format sections are divided using colour."
+		},
+		{
+			"photo": "Tesco2.png",
+			"caption": "Petrol station gantry, signage and literature."
+		}
+		]
+	},
+	{
+		"title": "TescoReboot",
+		"brand": "Tesco",
+		"line" : "",
+		"client": "Wieden + Kennedy", 
+		"url": "", 
+		"images": [
+		{
+			"photo": "Tesco3.png",
+			"caption": "Advertising content and build guidelines for Tesco’s brand reboot. This included developing all technical aspects of the ads."
+		}
+		]
+	},
+	{
+		"title": "Samsung",
+		"brand": "Samsung",
+		"line" : "",
+		"client": "Cheil London", 
+		"url": "", 
+		"images": [
+		{
+			"photo": "Samsung1.png",
+			"caption" : "I wrote and produced the European Retail guidelines for Samsung. They included guides to appropriate visual merchandising, messaging journeys for different store formats and print specs based on Samsung’s CSR policies."
+		}
+		]
+	},
+	{
+		"title": "Schlepp",
+		"brand": "Schlepp Courier",
+		"line" : "",
+		"client": "", 
+		"url": "", 
+		"images": [
+		{
+			"photo": "Schlepp.png",
+			"caption" : "Schlepp is a courier company based in the country, so its branding had to stand out at a distance. <br />They started out as a one man operation so it needed to look distinct from the major delivery companies."
+		}
+		]
+	},
+	{
+		"title": "BunCha",
+		"brand": "Bun Cha Vietnamese Cafe",
+		"line" : "",
+		"client": "", 
+		"url": "", 
+		"images": [
+		{
+			"photo": "BunCha.png",
+			"caption" : "I worked with this local cafe to produce a distinctive look and feel that would stand out in a street of restaurants.  The logo is custom built type."
+		}
+		]
+	},
+	{
+		"title": "Customs",
+		"brand": "Custom built type & other logos",
+		"line" : "",
+		"client": "", 
+		"url": "", 
+		"images": [
+		{
+			"photo": "Various logos.png",
+			"caption" : "<span class='group1'>Koodi:</span> Baby goods company. <span class='group1'>Best of Health:</span> Nutritionist. <span class='group1'>Purflo:</span> Matresses. <br /> <span class='group1'>Fake Tan:</span> Club night.  <span class='group1'>Bear With Us:</span> Social group. <span class='group1'>Tank:</span> Record label.<br />Most of these have custom built letterforms."
+		}
+		]
+	},
+	{
+		"title": "Guidelines",
+		"brand": "Brand Guidelines",
+		"line" : "",
+		"client": "", 
+		"url": "", 
+		"images": [
+		{
+			"photo": "Guides1.png",
+			"caption" : "As well as writing these brand guidelines, I worked on the design for these projects.<br />This is not a complete list"
+		}
+		]
+	}
+	]
+}
