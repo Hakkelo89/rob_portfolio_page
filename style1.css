@@ -9,11 +9,15 @@ body {
   color: #212529;
   text-align: right !important;
   background-color: #fff;
-  background: url("./background.jpg") no-repeat;
-  background-size: cover;
   color: #44e6cc !important;
   font-family: "Work Sans", sans-serif;
   font-size: 9px;
+}
+.bg-img{
+  background: url("./background.jpg") no-repeat;
+  background-size: cover;
+  color: #212529;
+  background-position: center center;
 }
 .navbar-brand {
   color: #44e6cc !important;
@@ -155,3 +159,11 @@ body {
     text-align: left;
   }
 }
+
+@media screen and (max-width: 991px) {
+  .bg-img {
+    background-position: 73% center;
+  }
+ 
+}
+
