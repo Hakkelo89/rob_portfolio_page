@@ -31,12 +31,12 @@ body {
   background-color: white !important;
 }
 .page {
-  width: 30%;
+  width: 24%;
   font-weight: bolder;
-  margin-left: 23px;
-  font-size: 9px;
+  font-size: 0.8rem;
+  margin-left: 7rem;
+  margin-top: 1%;
   text-align: left;
-  margin-top: 5%;
   margin-bottom: 10%;
 }
 .page1 {
