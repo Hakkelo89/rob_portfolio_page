@@ -31,38 +31,42 @@ body {
   background-color: white !important;
 }
 .page {
-  width: 24%;
-  font-weight: bolder;
-  font-size: 0.8rem;
+  width: 27%;
+  font-size: 1.2rem;
   margin-left: 7rem;
-  margin-top: 1%;
+  margin-top: 12%;
   text-align: left;
   margin-bottom: 10%;
 }
 .page1 {
   width: 100%;
-  font-weight: bolder;
-  font-size: 1.3rem;
-  text-align: center;
+  font-size: 15px;
+  text-align: left;
   margin-top: 1%;
   margin-bottom: 1%;
+  margin-left: 10%;
+  padding-right: 18%;
   color: white !important;
 }
 .page2 {
   width: 100%;
-  font-weight: bolder;
-  font-size: 1.6rem;
-  text-align: center;
+  font-size: 18px;
+  text-align: left;
   margin-top: 5%;
   margin-bottom: 1%;
+  margin-left: 10%;
+  padding-right: 18%;
 }
 .page3 {
+  margin-left: 123px;
   width: 100%;
-  font-weight: bolder;
-  font-size: 1.6rem;
-  text-align: center;
+  font-size: 18px;
+  text-align: left;
   margin-top: 1%;
   margin-bottom: 5%;
+  padding-right: 18%;
+  margin-left: 10%;
+
 }
 
 .d-block {
@@ -89,7 +93,7 @@ body {
 }
 .carousel-control-icon-control{
   position: fixed !important;
-  top: -35% !important;
+  top: 81% !important;
 }
 
   @keyframes slidein {
@@ -229,13 +233,13 @@ body {
     background-position: 73% center;
   }
   .carousel-control-icon-control{
-    top: -55% !important;
+    top: 27% !important;
   }
  
 }
 @media screen and (max-width: 768px) {
   .carousel-control-icon-control{
-    top: -66% !important;
+    top: 27% !important;
   }
  
 }
