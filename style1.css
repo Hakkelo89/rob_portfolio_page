@@ -28,7 +28,7 @@ body {
   color: #44e6cc !important;
 }
 .navbar-toggler {
-  background-color: white !important;
+  /* background-color: white !important; */
 }
 .page {
   width: 27%;
@@ -88,8 +88,8 @@ body {
   background-image: url(./images/right.png) !important;
 }
 .navbar-toggler {
-  background-color: #44e6cc !important;
-  border: 1px solid #44e6cc !important;
+  /* background-color: #44e6cc !important;
+  border: 1px solid #44e6cc !important; */
 }
 .carousel-control-icon-control{
   position: fixed !important;
@@ -206,7 +206,7 @@ body {
 }
 @media screen and (max-width: 440px) {
   .page {
-    width: 40%;
+    width: 80%;
   }
   .crausal {
     margin-bottom: 480px;
@@ -223,7 +223,8 @@ body {
   }
   .page {
     margin: auto;
-    font-size: 9px;
+    font-size: 12px;
+    width: 80%;
     text-align: left;
   }
 }
@@ -242,5 +243,40 @@ body {
     top: 27% !important;
   }
  
+}
+#mobileMenu{
+  display: none;
+}
+
+@media screen and (max-width: 768px) {
+    
+  #mobileMenu{
+    display: block;
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+  }
+  #rob-desktop{
+    display: none;
+  }
+  .dis-flex-bet{
+    display: flex !important;
+    font-size: 13.5px;
+  }
+ 
+}
+
+.dis-flex-bet{
+  width: 100%;
+  justify-content: space-between;
+  display: none;
+}
+.nav-link-letter-m{
+  text-align: left;
+  color: #44e6cc !important;
+}
+.nav-link-m{
+  text-align: left;
+  color: #44e6cc !important;
 }
 
